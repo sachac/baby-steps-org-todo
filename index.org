@@ -1,13 +1,18 @@
 #+TITLE: A Baby Steps Guide to Managing Your Tasks with Org
 #+OPTIONS: toc:1
-Work in progress. Questions? [[mailto:sacha@sachachua.com][sacha@sachachua.com]]
+Work in progress. Questions/ideas? [[mailto:sacha@sachachua.com][sacha@sachachua.com]]
 
-#+begin_html
-<style type="text/css">
-h1, h2, h3 { font-family: Georgia, serif }
-#content { max-width: 50em; margin: auto }
-</style>
-#+end_html
+You can find this document at [[http://sach.ac/baby-steps-org-todo]].
+(c) 2014 Sacha Chua - Creative Commons Attribution License (feel free to use, share, remix)
+
+#+CAPTION A path toward taming your TODO list
+[[http://sachachua.com/blog/wp-content/uploads/2014/02/2014-02-08-A-path-toward-taming-your-TODO-list.png][http://sachachua.com/blog/wp-content/uploads/2014/02/2014-02-08-A-path-toward-taming-your-TODO-list-640x486.png]]
+
+#+CAPTION Org TODO Basics
+[[http://sachachua.com/blog/wp-content/uploads/2014/02/2014-02-16-Org-TODO-basics.png][http://sachachua.com/blog/wp-content/uploads/2014/02/2014-02-16-Org-TODO-basics-640x482.png]]
+
+[[http://sachachua.com/blog/2014/01/tips-learning-org-mode-emacs/][Getting started with Org]]
+
 * Some notes
 I'll assume you're using Emacs 24 or later, and you've gone through
 the Emacs Tutorial with =C-h t= (=help-with-tutorial=). Assuming
@@ -216,7 +221,9 @@ coming eventually. =)
 
 ** Track your time
 
-coming eventually. =)
+Coming eventually. =)
+
+[[http://sachachua.com/blog/wp-content/uploads/2014/01/2014-01-06-Tracking-time-with-Org-mode.png][http://sachachua.com/blog/wp-content/uploads/2014/01/2014-01-06-Tracking-time-with-Org-mode-640x480.png]]
 
 ** Track your time estimates
 
@@ -234,3 +241,4 @@ coming eventually. =)
 * Notes
 
 E-mail me at [[mailto:sacha@sachachua.com][sacha@sachachua.com]] with questions or suggestions!
+See [[http://sachachua.com/blog/emacs][my Emacs page]] for more resources.
